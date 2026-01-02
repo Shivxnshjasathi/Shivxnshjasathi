@@ -1,19 +1,81 @@
 <h1 align="center">Hi 👋, I'm Shivansh Jasathi</h1>
-<h3 align="center">📱 Mobile App Developer skilled in Kotlin, Swift, Flutter, creating seamless user experiences. 🚀 Passionate about AI, Machine Learning. Flutter & Dart enthusiast. 🎵 Music producer and Coding instructor Let's build remarkable apps together!</h3>
+<h3 align="center">Product Engineer at <b>PhonePe</b> | Mobile App Specialist | AI & ML Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.shivanshjasathi.co](https://www.shivanshjasathi.co)
-
-- 📫 How to reach me **shivanshhasathi052004@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_DN8EOmApGAx2V87tdgeZg1rGNlO3NX5/view?usp=drive_link](https://drive.google.com/file/d/1_DN8EOmApGAx2V87tdgeZg1rGNlO3NX5/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shivansh-jasathi-5095a3225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivansh-jasathi-5095a3225/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shivansh_jasathy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shivansh_jasathy/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucnohertcjyizhitkmdnromg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnohertcjyizhitkmdnromg" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/shivanshhasathi052004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shivanshhasathi052004/" height="30" width="40" /></a>
+<p align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flutter-%252302569B.svg%3Fstyle%3Dfor-the-badge%26logo%3DFlutter%26logoColor%3Dwhite" alt="Flutter" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kotlin-%25237F52FF.svg%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dwhite" alt="Kotlin" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Swift-F05138%3Fstyle%3Dfor-the-badge%26logo%3Dswift%26logoColor%3Dwhite" alt="Swift" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-%2523ED8B00.svg%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite" alt="Java" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+🚀 About Me
+
+I am an innovative and results-driven Software Engineer currently working as a Product Engineer at PhonePe, where I'm building high-scale insurance products. With a strong foundation in B.Tech Computer Science (AI & ML), I specialize in creating seamless cross-platform experiences using Flutter, Kotlin, and Swift.
+
+🔭 Currently at: PhonePe - Migrating UI 2.0 to 3.0 and building internal tools.
+
+🛠 Previously: Led a 7-member team at NavGurukul to deliver high-impact client projects.
+
+🧠 AI/ML Focus: Integrated LLMs like Gemini API into mobile apps (e.g., Serenity AI).
+
+🏆 Achievement: Finalist at Smart India Hackathon 2023 and 350+ problems solved on LeetCode.
+
+🎵 Fun Fact: I'm a music producer and coding instructor when I'm not pushing code.
+
+🛠 Tech Stack
+
+Category
+
+Tools & Languages
+
+Mobile Development
+
+Flutter, Dart, Kotlin, Jetpack Compose, Swift, SwiftUI
+
+Frontend/Web
+
+React.js, Next.js, Angular, Tailwind CSS, JavaScript, TypeScript
+
+Backend & Database
+
+Node.js, SpringBoot, Firebase, MongoDB, MySQL
+
+AI & IoT
+
+Gemini API, TensorFlow, C++ (ESP32/Arduino), Machine Learning
+
+DevOps & Cloud
+
+Git, Docker, Kubernetes, Jenkins, AWS
+
+📊 GitHub Stats & Achievements
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dshivanshhasathi052004%26show_icons%3Dtrue%26theme%3Dradical" alt="Shivansh's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dshivanshhasathi052004%26theme%3Dradical" alt="GitHub Streak" />
+</p>
+
+📱 5+ Apps published on Google Play Store with 2,000+ cumulative downloads.
+
+💡 Smart India Hackathon 2023 Finalist.
+
+💻 Built a DIY Smartwatch from scratch using ESP32.
+
+🤝 Connect with Me
+
+<p align="left">
+<a href="https://www.shivanshjasathi.co" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/shivansh-jasathi-5095a3225/" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/shivanshhasathi052004/" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3Dblack" alt="LeetCode" /></a>
+<a href="mailto:shivanshhasathi052004@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" /></a>
+<a href="https://www.youtube.com/channel/ucnohertcjyizhitkmdnromg" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube" /></a>
+</p>
+
+<p align="center">
+<i>"Let's build remarkable apps together!"</i>
+
+
+
+
+⭐️ From <b>Shivansh Jasathi</b>
+</p>
